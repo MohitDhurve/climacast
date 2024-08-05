@@ -10,7 +10,7 @@ ClimaCast is an interactive web application that provides real-time weather info
 
 ## Demo
 
-You can view a live demo of ClimaCast [here](https://your-demo-link.com).
+You can view a live demo of ClimaCast [here](https://mohitdhurve.github.io/climacast/).
 
 ## Screenshots
 
