@@ -12,11 +12,6 @@ ClimaCast is an interactive web application that provides real-time weather info
 
 You can view a live demo of ClimaCast [here](https://mohitdhurve.github.io/climacast/).
 
-## Screenshots
-
-![ClimaCast Screenshot]([https://drive.google.com/file/d/15doSXiNdLUF8OY7qkdteXnRhwMo9Ly7J/view?usp=drive_link])
-
-
 ## Installation
 
 To run ClimaCast locally, follow these steps:
