@@ -1,6 +1,6 @@
-# ClimaCast
+# ClimaCast Pro
 
-ClimaCast is an interactive web application that provides real-time weather information. Users can search for weather details by entering a city name, and the app fetches and displays data such as temperature, humidity, weather conditions, and wind speed using the OpenWeatherMap API.
+ClimaCast Pro is an interactive web application that provides real-time weather information. Users can search for weather details by entering a city name, and the app fetches and displays data such as temperature, humidity, weather conditions, and wind speed using the OpenWeatherMap API.
 
 ## Features
 
@@ -10,11 +10,11 @@ ClimaCast is an interactive web application that provides real-time weather info
 
 ## Demo
 
-You can view a live demo of ClimaCast [here](https://mohitdhurve.github.io/climacast/).
+You can view a live demo of ClimaCast Pro [here](https://mohitdhurve.github.io/climacast/).
 
 ## Installation
 
-To run ClimaCast locally, follow these steps:
+To run ClimaCast Pro locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
