@@ -14,7 +14,7 @@ You can view a live demo of ClimaCast [here](https://mohitdhurve.github.io/clima
 
 ## Screenshots
 
-![ClimaCast Screenshot]([https://drive.google.com/uc?export=view&id=1AP1nkxhfK0iZrvOC1rMc0YdzHcrUypde])
+![ClimaCast Screenshot]([https://drive.google.com/file/d/1AP1nkxhfK0iZrvOC1rMc0YdzHcrUypde/view?usp=sharing])
 
 
 ## Installation
