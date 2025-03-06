@@ -207,7 +207,6 @@ body {
     }
 }
 
-/* Add this to your existing weather app container to ensure it stays on top */
 .weather-app {
     position: relative;
     z-index: 1;
@@ -312,7 +311,6 @@ input[type="text"] {
     font-size: 0.9em;
 }
 
-/* Important: Added specific active state styles */
 .unit-toggle button.active {
     background: var(--primary-color);
     color: white;
@@ -352,7 +350,6 @@ input[type="text"] {
     transition: var(--transition);
 }
 
-/* Important: Corrected toggle switch styles */
 .toggle input:checked+.slider {
     background: var(--success-color);
 }
